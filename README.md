@@ -2,7 +2,7 @@
 
 > 自动读取选课规则与课程列表，支持动态目标数量、定时严格并发、有限重试和结果核验的 Tampermonkey 用户脚本。
 
-这是一个面向 `appcd.chaoxing.com/selection/pc/index` 选课页面的 Tampermonkey 用户脚本。它参考 UUTIX Helper 的悬浮控制面板交互，但使用本次页面中实际出现的超星选课接口。
+这是一个面向 `appcd.chaoxing.com/selection/pc/index` 选课页面的 Tampermonkey 用户脚本。
 
 ## 功能
 
